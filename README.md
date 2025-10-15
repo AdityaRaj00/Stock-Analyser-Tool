@@ -1,7 +1,6 @@
 # 🧠 Interactive Stock Market Analysis Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Cloud](https://img.shields.io/badge/Cloud-GCP-yellow?logo=googlecloud)
 ![Data](https://img.shields.io/badge/Data-Pandas%20%7C%20PySpark-orange?logo=apache-spark)
 
