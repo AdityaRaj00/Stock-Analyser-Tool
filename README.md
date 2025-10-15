@@ -133,6 +133,5 @@ Follow the on-screen prompts to:
 ## 👨‍💻 Author & License
 
 **Author:** [Aditya Raj Gaur](https://github.com/)  
-**License:** MIT
 
 > 💡 *Contributions, bug reports, and feature requests are welcome!*
